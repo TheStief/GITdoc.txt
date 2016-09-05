@@ -1,6 +1,7 @@
+I removed the hidden ".git" folder!
+
 This is the doc I´m writing for my practicum.
 
-CHANGE
 
 FORK:
 - you create a copy of the repository under your own github.com ID
