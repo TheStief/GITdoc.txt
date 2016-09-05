@@ -1,0 +1,64 @@
+This is the doc I´m writing for my practicum.
+
+FORK:
+- you create a copy of the repository under your own github.com ID
+- when you change something in your forked repository you have to make a "pull request"
+	-> if approved: the changes you made will be committed with the ORIGINAL
+
+
+
+CLONE:
+- you make a copy of the repo on your PC
+	-> with everything inside the repo, the history and branches etc.
+
+
+
+the PUSH-COMMAND:
+
+when you type " git push " you move all branches to the remote repository 
+-> you sync the local repo with the remote repo
+
+
+
+the pull request:
+- in case there are many people working on one project, they all have own forks and work on these forks
+-if there are many changes on one or more forks, the PULL REQUEST lets everyone know that they have to sync all he forks to get the latest version
+
+
+
+GITCONFIG:
+two config files: .gitconfig	.git/config
+
+.gitconfig:
+- global settings
+	-> directory: /home/stefan/
+
+.git/config:
+-repository specific settings
+
+
+-with "gitconfig" you can config git and change the settings
+
+
+
+OTHER SOURCE-CODE-DISTRIBUTING-PLATFORMS?
+- GitLab
+	-> works with git
+- Apache Allur
+	-> works with git
+- Bitbucket
+	-> works with git, free for teams up to 5 users
+- FogCreek
+	-> works with git
+
+
+MARKDOWN:
+
+- Markdown is a simple syntax that styles every form of writing on GitHub
+- on GitHub, you use Markdown for gists, comments and pull requests
+-> tutorial: www.markdowntutorial.com
+
+
+
+
+
